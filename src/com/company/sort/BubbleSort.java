@@ -11,7 +11,7 @@ public class BubbleSort {
 
         bubbleSort(a);
 
-
+        //say hello
         PrintArray.printArray(a);
     }
 
