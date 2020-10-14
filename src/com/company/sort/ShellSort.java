@@ -16,6 +16,11 @@ public class ShellSort {
 
 
     public static void shellSort(int[] a) {
+        int N = a.length;
+        int h = 0;
+        while (h >= 1) {
+
+        }
 
     }
 }
